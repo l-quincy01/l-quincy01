@@ -22,7 +22,7 @@ style="display: flex;  gap: 10px;
 - 🌱 I’m  learning various technologies, tools and languages.
 - 📫 [Checkout my portfolio](https://lesego-pitsi.netlify.app/)
   
-<div >
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-quincy01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
@@ -30,5 +30,5 @@ style="display: flex;  gap: 10px;
 
 <img src="https://github-readme-stats.vercel.app/api?username=l-quincy01&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-</div>
+
 
