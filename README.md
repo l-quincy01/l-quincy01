@@ -11,17 +11,18 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+style="display: flex;  gap: 10px;
 -->
 
-- 🔭 I’m currently working on various personal projects and trying out new ideas.
-- 
+- 🔭 I’m working on various personal projects and exploring new ideas.
 - 🌱 I’m  learning various technologies, tools and languages.
-
+- 📫 [Checkout my portfolio](https://lesego-pitsi.netlify.app/)
   
-<div style="display: flex;  gap: 10px;">
+<div >
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-quincy01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
