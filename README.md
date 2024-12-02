@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex;  gap: 10px;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-quincy01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
