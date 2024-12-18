@@ -26,7 +26,6 @@ style="display: flex;  gap: 10px;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-quincy01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=l-quincy01&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=l-quincy01&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
